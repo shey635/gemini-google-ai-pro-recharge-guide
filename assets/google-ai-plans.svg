@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Google AI会员与Gemini API关系</title><desc id="desc">Plus、Pro、Ultra属于个人会员，Gemini API属于开发者服务</desc>
+  <rect width="1000" height="420" rx="24" fill="#f5f7fb"/>
+  <text x="500" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#172033">先分清：会员套餐和API不是一回事</text>
+  <rect x="55" y="85" width="600" height="270" rx="22" fill="#ffffff" stroke="#5b67d8" stroke-width="3"/>
+  <text x="355" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#3943a7">个人 Google AI 会员</text>
+  <rect x="85" y="160" width="160" height="120" rx="18" fill="#e9ecff"/><rect x="275" y="160" width="160" height="120" rx="18" fill="#dce2ff"/><rect x="465" y="160" width="160" height="120" rx="18" fill="#cfd7ff"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" fill="#172033"><text x="165" y="205" font-size="20" font-weight="700">AI Plus</text><text x="165" y="240" font-size="16">400GB</text><text x="355" y="205" font-size="20" font-weight="700">AI Pro</text><text x="355" y="240" font-size="16">5TB</text><text x="545" y="205" font-size="20" font-weight="700">AI Ultra</text><text x="545" y="240" font-size="16">5x / 20x</text></g>
+  <text x="355" y="325" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#4b5563">聊天、Deep Research、Flow、Notebook、Google应用AI</text>
+  <rect x="700" y="85" width="245" height="270" rx="22" fill="#172033"/>
+  <text x="822" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">Gemini API</text>
+  <text x="822" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#d7dded">开发者接口</text><text x="822" y="225" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#d7dded">使用 API Key</text><text x="822" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#d7dded">独立项目与计费</text>
+  <text x="822" y="315" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#9cc5ff">买会员不会自动送余额</text>
+</svg>
