@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">Google AI Pro购买流程</title><desc id="desc">从确认会员或API到检查会员状态</desc>
+  <rect width="1100" height="260" rx="24" fill="#f5f7fb"/><text x="550" y="45" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#172033">Google AI Pro 购买流程</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#718096"/></marker></defs>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="16" font-weight="700" fill="#172033">
+    <rect x="25" y="95" width="150" height="85" rx="16" fill="#e9ecff"/><text x="100" y="130">确认会员</text><text x="100" y="155">还是API</text>
+    <rect x="205" y="95" width="150" height="85" rx="16" fill="#dfe4ff"/><text x="280" y="130">选择Pro</text><text x="280" y="155">或Ultra</text>
+    <rect x="385" y="95" width="150" height="85" rx="16" fill="#d6ddff"/><text x="460" y="130">自己的账号</text><text x="460" y="155">或成品账号</text>
+    <rect x="565" y="95" width="150" height="85" rx="16" fill="#ccd5ff"/><text x="640" y="142">查看规则</text>
+    <rect x="745" y="95" width="150" height="85" rx="16" fill="#c2ceff"/><text x="820" y="142">下单</text>
+    <rect x="925" y="95" width="150" height="85" rx="16" fill="#b8c7ff"/><text x="1000" y="130">检查会员</text><text x="1000" y="155">状态</text>
+  </g>
+  <g stroke="#718096" stroke-width="3" marker-end="url(#a)"><line x1="178" y1="137" x2="198" y2="137"/><line x1="358" y1="137" x2="378" y2="137"/><line x1="538" y1="137" x2="558" y2="137"/><line x1="718" y1="137" x2="738" y2="137"/><line x1="898" y1="137" x2="918" y2="137"/></g>
+</svg>
